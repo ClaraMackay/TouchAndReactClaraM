@@ -1,7 +1,5 @@
------------------------------------------------------------------------------------------
---
--- main.lua
---
------------------------------------------------------------------------------------------
-
--- Your code here
+-- Title: TouchAndReact
+-- Name: Clara Mackay
+-- Course: ICS2O/3C
+-- This program displays a button tha twhen I click on it 
+--turns coulour and displays text and another object.
